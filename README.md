@@ -9,7 +9,7 @@ Se puede consultar cada vez que se quiera el estado de la maquina de café.
 Y por último se puede retirar el dinero acumulado en la maquina._
 
 ## Datos 📋
-_A lo largo del proyecto como método de aprendizaje además de los temas introducidos de forma teórica, cada tema contaba con una serie de [ejercicios](https://github.com/car-vigo/CoffeeMachine-IntellijEDU/tree/master/Problems) para ir afianzando los conocimientos adquiridos._
+_A lo largo del proyecto como método de aprendizaje, además de los temas introducidos de forma teórica, cada tema contaba con una serie de [ejercicios](https://github.com/car-vigo/CoffeeMachine-IntellijEDU/tree/master/Problems) para ir afianzando los conocimientos adquiridos._
 * 49 temas
 * 126 problemas resueltos
 
