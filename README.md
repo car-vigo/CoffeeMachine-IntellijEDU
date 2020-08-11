@@ -1,5 +1,6 @@
 # Coffee Machine ☕
-_Este proyecto hace parte de la propuesta educativa de Intellij EDU para aprender JAVA._
+_El proyecto [CoffeeMachine](https://hyperskill.org/projects/33?track=1) hace parte de la propuesta educativa de Intellij EDU para aprender JAVA._
+
 ## Sobre el proyecto 📦
 _El fin de este proyecto es simular una maquina de café. La máquina trabaja con productos típicos: café, leche, agua y tazas; si se queda sin algo, se muestra una notificación.
 Y también, en caso querer hacerlo, está la posibilidad de rellenar los productos.
